@@ -1,2 +1,60 @@
-#EXTINF:-1,FOX FOOTY
-http://124.168.75.173:8001/1:0:1:3A9C:F:1000:6180000:0:0:0:
+#EXTM3U
+
+#EXTINF:-1,C More Tennis 
+acestream://859800ec0b9ef3d0ab2e5fe66cb5f4682f6dca21
+#EXTINF:-1,Canal+ Sport HD France 
+acestream://e9250ab476b90dc0621d549691b5bc35c5b972e3
+#EXTINF:-1,Digi Sport 1 
+acestream://587b978995d900afc17d4a5c3ef13797d2b3a0ec
+#EXTINF:-1,Digi Sport 2 
+acestream://3b0796661f783236f24756821f5efb1d15d59d7f
+#EXTINF:-1,Eurosport 1 
+acestream://ac35ad93b082477d94a4c35b04123f3b469f127c
+#EXTINF:-1,Eurosport 1 HD 
+acestream://8dde10925ac5ebe1b9bc4682831725fe30e118f0
+#EXTINF:-1,Eurosport 2 
+acestream://0c87915660314df079792db0a57c2e32fb8abcb9
+#EXTINF:-1,Extreme Sports 
+acestream://d980793792a5fe8a498e88c694f7b4dbc2d4fdaa
+#EXTINF:-1,Fast and FunBox HD 
+acestream://461fc95efeb8688a2d8b5c7614906be4ba572e49
+#EXTINF:-1,FightBox HD 
+acestream://4d851afc7c2f9e966ee3dc02bb7bf8c4b6f13e93
+#EXTINF:-1,Idman TV 
+acestream://51ffb9deea68e0ba6fac6c7577ecd0633880822c
+#EXTINF:-1,MUTV HD 
+acestream://43011cb288bbede6f399470c30e7f7e880799802
+#EXTINF:-1,Motorsport 
+acestream://c8b03380b2ac11239254a7c94c3cbd2ca04cce16
+#EXTINF:-1,Real Madrid TV 
+acestream://e1b3b363b9394241d1418d6f1fddb720d594809c
+#EXTINF:-1,Setanta Sports + HD 
+acestream://a3d6475c17fc2c7789cc45f802a9018764f0352c
+#EXTINF:-1,Setanta Sports Eurasia HD 
+acestream://fda7b070947a5177fce8141757551d194d6e7d1c
+#EXTINF:-1,Sky Sports 1 
+acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d
+#EXTINF:-1,Sky Sports 1 HD
+acestream://ab226ed6eaaf04d5a564753246495d12bef7e495
+#EXTINF:-1,SkySports 2 
+acestream://64a8a11199ebb3777b3a976ecd3fb051b282de98
+#EXTINF:-1,Sky Sports 2 HD 
+acestream://aadff76cf805f2b3f0a8ed5c9fca4502c462c017
+#EXTINF:-1,SkySports 3 
+acestream://da09d12410d24b7b59b6c7bd10dbc5e4aa36d98d
+#EXTINF:-1,Sky Sports 5 
+acestream://81c9facaa48a83516fcee2b7b058e40f6a8b968c
+#EXTINF:-1,Sky Sports F1 
+acestream://2288397a21c4933d2359f19f54daa4101e297a48
+#EXTINF:-1,Sky Sports News HQ
+acestream://b923a2e7784b444e85290978de81e9da24437b6f
+#EXTINF:-1,Sport 1 Cz 
+acestream://224647f6b35f20a68f72633d588a8f208a896bcc
+#EXTINF:-1,Sport 2 Cz 
+acestream://2cf97774d9d6fdfcc4584569b7dd48c041484eba
+#EXTINF:-1,Sports TV 
+acestream://748ddc8b140f8059ece20af7c35085a7c0482a88
+#EXTINF:-1,Super Tennis HD 
+acestream://111d650225e7b7fb8f0f1e968c6aa7f8b86684bd
+#EXTINF:-1,TSN 1 
+acestream://13139e30694a4902cc4bc8e0859d64c9851c80cb
